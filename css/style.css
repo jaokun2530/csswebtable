@@ -1,0 +1,24 @@
+body {
+    padding: 50px;
+    background-image: url("../image/V2.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    color: white;
+   
+
+}
+
+#h1 {
+   text-align: center;
+  color: white;
+}
+
+h2 {
+    text-align: center;
+   
+}
+
+#demo{
+    color: white;
+
+}
